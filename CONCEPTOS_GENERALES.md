@@ -271,24 +271,3 @@ Común usar ε = 10^{-6} o 10^{-8}
 
 ---
 
-## Lectura Cruzada Recomendada
-
-**Para entender Punto 3 (Net Interactions):**
-- Jacobiano, Eigenvalor → Sección 3
-- Atractor, Punto fijo → Sección 1
-- Función pura, Composición → Sección 10
-
-**Para entender Punto 4 (Feigenbaum):**
-- Bifurcación, Lyapunov → Secciones 2, 4
-- Atractor extraño, Caos → Sección 1, 4
-- Universalidad → Sección 5
-
-**Para entender Punto 5 (Attractors):**
-- Atractor, Punto fijo, Órbita periódica → Sección 1
-- Eigenvalor, Bifurcación Hopf → Secciones 3, 2
-- Integración RK4 → Sección 9
-- Lyapunov → Sección 4
-
----
-
-**Uso**: Si encuentras término desconocido en cualquier punto, búscalo aquí primero.
